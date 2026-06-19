@@ -1,8 +1,8 @@
 {
   Title: Relations and Functions;
-  Image: https://domain.com/Screenshot 2026-05-01 162545.png;
+  Image: https://github.com/CoderBro511/Ganitam/blob/main/Screenshot%202026-05-01%20162545.png;
   Desc: Chapter 1;
-  Pdf: https://github.com/user/repo/raw/main/math_ch1.pdf
+  Pdf: https://github.com/CoderBro511/Ganitam/blob/main/math_ch1.pdf
 }
 {
   Title: Inverse Trigonometric Functions;
