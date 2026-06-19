@@ -1,0 +1,18 @@
+{
+  Title: Relations and Functions;
+  Image: https://domain.com/image1.jpg;
+  Desc: Chapter 1;
+  Pdf: https://github.com/user/repo/raw/main/math_ch1.pdf
+}
+{
+  Title: Inverse Trigonometric Functions;
+  Image: https://domain.com/image2.jpg;
+  Desc: Chapter 2;
+  Pdf: https://github.com/user/repo/raw/main/math_ch2.pdf
+}
+{
+  Title: Matrices;
+  Image: https://domain.com/image3.jpg;
+  Desc: Chapter 3;
+  Pdf: https://github.com/user/repo/raw/main/math_ch3.pdf
+}
